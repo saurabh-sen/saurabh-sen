@@ -1,34 +1,28 @@
 <!-- name -->
 
-<h1 align="center"><b>Hello World 🚀, I'm <a href="https://saurabhsen.me">Saurabh Sen </a></b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-**i love code**&nbsp;&nbsp;![](cat-typing.gif)
+<h1 align="center"><b>Hello World 🚀, I'm <a href="https://iamsaurabh.vercel.com">Saurabh Sen<a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></
+</h1> </b> 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
-<!-- animated about -->
-<p align="center">
- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=500&center=true&width=435&lines=Frontend+Engineer;HTML+CSS+JS+%F0%9F%94%B7 TypeScript+ReactJS;NextJS+TailwindCss+NodeJS+MongoDB" alt="Typing SVG" /></a>
-</p>
+**i love code**&nbsp;&nbsp;![](cat-typing.gif) <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=500&lines=React+JS%2C+TypeScript%2C+Java%2C+Spring+boot" alt="Typing SVG" />
 
-## SaurabhSen.jsx
-```jsx
-import React from 'react';
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+
+## SaurabhSen.tsx
+```tsx
+import WorkExperience from 'life';
 
 const SaurabhSen = () => {
   return (
-    <div>
-      <h2>Frontend Developer</h2>
-      <p>Proficient in:</p>
+    <WorkExperience>
+      <h2>Software Engineer</h2>
+      <p>Worked at:</p>
       <ul>
-        <li>HTML, CSS, JavaScript, TypeScript</li>
-        <li>React.js, Next.js, TailwindCSS</li>
-        <li>Redux-Toolkit</li>
-        <li>React Context API</li>
-        <li>Node.js, Express.js</li>
-        <li>Firebase, MongoDB</li>
-        <li>Git, GitHub</li>
-        <li>REST APIs</li>
-        <li>React Hooks</li>
+        <li>Realiance . Jio Platforms Limited</li>
+        <li>Wavemaker.AI</li>
+        <li>Causal Funnel</li>
       </ul>
-    </div>
+    </WorkExperience>
   );
 };
 
@@ -58,43 +52,7 @@ export default SaurabhSen;
 <!-- github stats -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 ## 📊 Programming Statistics
-<p align="center">
-  <!--- stats (start) -->
-<table align="center">
-<tr border="none">
-<td width="50%" align="center">
-  
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=saurabh-sen&show_icons=true&theme=react&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&custom_title=Saurabh%27s%20Github%20Stats" />
-  <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=saurabh-sen&theme=react&hide_border=false&show_icons=true" /> 
-</td>
-
-<td width="50%" align="center">
-
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=saurabh-sen&layout=donut&theme=react"/>
-  
-  </td>
-</tr>
-</table>
-
-<!--- stats (end) -->
-
-<!-- wakatime stats -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
-## ⏳ WakaTime Stats
- <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="wakatime" src="https://github-readme-stats.vercel.app/api/wakatime?username=saurabhsen&theme=react&show_icons=true&layout=compact" /> 
-
-<!--- trophy (start) -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
-## 🏆 Trophies
-<div align=center>
-  <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
-      <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=saurabh-sen&theme=onestar&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
-    </a>
-</div>
-<!--- trophy (start) -->
-
-</p>        
+<img src="https://streak-stats.demolab.com?user=saurabh-sen&theme=dark&hide_border=true" alt="GitHub Streak" width="100%" />
 <!--- stats (end) -->
 
 <!-- Jokes -->
@@ -106,22 +64,7 @@ export default SaurabhSen;
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 ### 🤝🏻 &nbsp;Connect with Me
 <p align="center">
-  <a href="https://saurabhsen.me"><img src="https://img.shields.io/badge/-saurabhsen.me-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
+  <a href="https://iamsaurabh.vercel.com"><img src="https://img.shields.io/badge/-saurabhsen.me-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
   <a href="https://linkedin.com/in/saurabh-sen-profile"><img src="https://img.shields.io/badge/-Saurabh%20Sen-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
   <a href="mailto:sensaurabh1212@gmail.com"><img src="https://img.shields.io/badge/-sensaurabh1212@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 </p>
-
-<!--
-**saurabh-sen/saurabh-sen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
